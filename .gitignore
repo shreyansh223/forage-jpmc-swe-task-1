@@ -1,0 +1,21 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Editor/IDE configurations
+*.iml
+*.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+*.swp
+
+# General ignore patterns
+large_media_files/
+env_config.*
+temp_files/
+log_files/
+.venv/
